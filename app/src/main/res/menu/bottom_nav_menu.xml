@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_dashboard"
+        android:title="Dashboard"
+        android:icon="@drawable/ic_launcher_foreground"/>
+    <item
+        android:id="@+id/menu_menuharian"
+        android:title="Menu Harian"
+        android:icon="@drawable/ic_launcher_foreground"/>
+    <item
+        android:id="@+id/menu_umkm"
+        android:title="UMKM"
+        android:icon="@drawable/ic_launcher_foreground"/>
+</menu>
